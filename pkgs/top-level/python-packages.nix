@@ -1958,6 +1958,8 @@ in {
 
   cocotb-bus = callPackage ../development/python-modules/cocotb-bus { };
 
+  cocotb-test = callPackage ../development/python-modules/cocotb-test { };
+
   codecov = callPackage ../development/python-modules/codecov { };
 
   codepy = callPackage ../development/python-modules/codepy { };
